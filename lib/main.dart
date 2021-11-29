@@ -1,6 +1,16 @@
+import 'package:faturas_dojo_112021/album_service.dart';
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
 
 void main() {
+  final albumService = AlbumService();
+
+  albumService.fetchAlbum(http.Client(), "1").then((album) {
+    print(album.toString());
+  }).catchError((err) {
+    print(err);
+  });
+
   runApp(const MyApp());
 }
 
