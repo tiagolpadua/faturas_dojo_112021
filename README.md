@@ -1,16 +1,21 @@
-# faturas_dojo_112021
+# Faturas Dojo
 
-A new Flutter project.
+## Coding Dojo
 
-## Getting Started
+Coding Dojo é um método de aprendizagem para desenvolvimento de projetos em computação, é uma reunião entre várias pessoas que desejam trabalhar coletivamente em um desafio de programação.
 
-This project is a starting point for a Flutter application.
+O desafio pode ser um problema algorítmico a ser resolvido ou uma necessidade de implementação.
 
-A few resources to get you started if this is your first Flutter project:
+Cada Coding Dojo se concentra em um assunto específico e representa o objetivo da sessão.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Esse assunto deve permitir que aprendamos coletivamente tecnicamente e como enfrentar o desafio com sucesso.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O exercício pode ser realizado entre pessoas da mesma empresa, de uma escola ou de diferentes origens.
+
+<https://pt.wikipedia.org/wiki/Coding_Dojo>
+
+## Objetivo
+
+Fazer o layout da tela de pagamento do sistema de faturas:
+
+![Tela Home](doc_assets/home.png)
